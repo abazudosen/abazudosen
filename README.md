@@ -7,10 +7,11 @@ React Native Developer | Tutor
 🚀 Experienced React Native Developer Ready to Elevate Your Team 🚀 Specializing in cross-platform app development for iOS and Android using React Native, I thrive on collaboration, tutoring, bringing candid communication, a passion for problem-solving, and a track record of success. Let's connect and innovate together to drive your company's growth!
 
 *   🌍  I'm based in Abuja
+*   💼  I'm Fulltime Product Engineer
 *   ✉️  You can contact me at [abudosen@gmail.com](mailto:abudosen@gmail.com)
-*   🚀  I'm currently working on [B2B Mobile App](http://tradelyx.com/)
-*   🧠  I'm learning Blockchain & AI
-*   🤝  I'm open to collaborating on Fintech, Ecommerce, B2B.
+*   🚀  I'm currently working on a Service Delivery Platform [(http://handyhelpa.com/)](https://handyhelpa.com/)
+*   🧠  I'm learning MCPs & A2A
+*   🤝  I'm open to collaborating on Fintech, Ecommerce, B2B, AI, etc.
 *   ⚡  Love movies, football & learning tech related stuff
 
 <a href="https://www.github.com/abazudosen" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/abazudosen?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
