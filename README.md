@@ -6,7 +6,7 @@ React Native Developer | Tutor
 
 🚀 Experienced React Native Developer Ready to Elevate Your Team 🚀 Specializing in cross-platform app development for iOS and Android using React Native, I thrive on collaboration, tutoring, bringing candid communication, a passion for problem-solving, and a track record of success. Let's connect and innovate together to drive your company's growth!
 
-*   🌍  I'm based in Abuja
+*   📍  I'm based in Abuja, Nigeria
 *   💼  I'm Fulltime Product Engineer
 *   ✉️  You can contact me at [abudosen@gmail.com](mailto:abudosen@gmail.com)
 *   🚀  I'm currently working on a Service Delivery Platform [(http://handyhelpa.com/)](https://handyhelpa.com/)
