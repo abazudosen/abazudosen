@@ -28,7 +28,7 @@ I'm particularly interested in the intersection of **Cloud Engineering, Artifici
 
 - React Native, Expo
 - React.js, Next.js
-- TypeScript, JavaScript
+- TypeScript, JavaScript, Python
 - Redux, Tailwind CSS
 
 **Backend & API Engineering**
