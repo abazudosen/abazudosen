@@ -1,19 +1,17 @@
 # Hi 👋, I'm Abaz Udosen
 
-### Product Engineer | Cloud & AI Engineer | React Native Developer
+### Product Engineer | Cloud & AI Engineer | Mobile Developer
 
 🚀 I build, scale, and secure digital products using modern engineering practices, cloud infrastructure, and AI-powered technologies.
 
-I'm a Product Engineer with **8+ years of experience** building cross-platform mobile applications, web platforms, backend systems, and scalable cloud solutions.
+I'm a Software Engineer with **8+ years of experience** building cross-platform mobile applications, web platforms, backend systems, and scalable cloud solutions.
 
 My work goes beyond writing code. I combine product thinking, software architecture, cloud engineering, security, and AI to build reliable systems that solve real-world problems.
 
 I'm particularly interested in the intersection of **Cloud Engineering, Artificial Intelligence, and Software Security**, exploring how LLMs, RAG pipelines, AI agents, and automation can improve how we build and operate software.
 
-- 📍 Based in Abuja, Nigeria
-- 💼 Full-time Product Engineer
-- 🌐 Currently building [HandyHelpa](https://handyhelpa.com/)
-- 🧠 Exploring MCP, A2A, Agentic AI, LLMs, and RAG architectures
+- 💼 Full-time AI Engineer
+- 🧠 I design & build AI-powered systems, intelligent agents, and automated workflows, leveraging LLMs, RAG, MCP, and A2A to solve real-world business and engineering problems.
 - ☁️ Building with AWS, serverless architectures, and cloud-native services
 - 🔐 Interested in DevSecOps, Cloud Security, and secure software architecture
 - 🤝 Open to collaborations in FinTech, E-commerce, SaaS, B2B, AI, and Cloud Engineering
