@@ -117,9 +117,13 @@ I'm particularly interested in the intersection of **Cloud Engineering, Artifici
 
 I'm always open to interesting conversations, technical collaborations, consulting opportunities, and knowledge sharing.
 
-- 📧 Email: [abudosen@gmail.com](mailto:abudosen@gmail.com)
-- 💼 LinkedIn: [abazudosen](https://www.linkedin.com/in/abazudosen)
-- 🐦 X: [@abazudosen](https://x.com/abazudosen)
-- 📸 Instagram: [@abazudosen](https://instagram.com/abazudosen)
+- 📧 **Email:** [abudosen@gmail.com](mailto:abudosen@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/abazudosen](https://www.linkedin.com/in/abazudosen)
+- 🐦 **X (Twitter):** [@abazudosen](https://x.com/abazudosen)
+- 🧵 **Threads:** [@abazudosen](https://www.threads.net/@abazudosen)
+- 📸 **Instagram:** [@abazudosen](https://instagram.com/abazudosen)
+- 🎵 **TikTok:** [@abazudosen](https://www.tiktok.com/@abazudosen)
+- ▶️ **YouTube:** [@abazudosen](https://www.youtube.com/@abazudosen)
+- 📘 **Facebook:** [@abazudosen](https://www.facebook.com/abazudosenOfficial)
 
 **Building products. Engineering scalable systems. Securing infrastructure. Exploring the future of AI.** 🚀
