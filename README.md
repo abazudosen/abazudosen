@@ -28,21 +28,8 @@ I'm particularly interested in the intersection of **Cloud Engineering, Artifici
 - Event-Driven Systems
 - Database Design & Optimization
 - Performance Optimization
-- RBAC & Access Control
+- IAM, RBAC & Access Control
 - System Integration
-- Technical Documentation
-
-
-### 🎯 What I Enjoy Building
-
-- Scalable mobile and web applications.
-- Cloud-native and serverless applications.
-- AI-powered products using LLMs and RAG.
-- Intelligent AI agents and automated workflows.
-- Secure backend systems and APIs.
-- Multi-tenant SaaS platforms.
-- FinTech and payment integrations.
-- Distributed and event-driven systems.
 
 ---
 
